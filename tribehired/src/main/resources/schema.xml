@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<field name="id" type="string" indexed="true" stored="true" required="true" /> 
+<field name="postId" type="string" indexed="true" stored="true" />
+<field name="name" type="text_general" indexed="true" stored="true" />
+<field name="email" type="text_general" indexed="true" stored="true" />
+<field name="body" type="text_general" indexed="true" stored="true" />
